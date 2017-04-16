@@ -2,7 +2,7 @@
 layout: page
 title: Bryan Swan
 tagline: Data Developer
----o
+---
 {% include JB/setup %}
 
 
