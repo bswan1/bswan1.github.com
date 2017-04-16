@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Bryan Swan
-tagline: Supporting tagline
----
+tagline: Data Developer
+---o
 {% include JB/setup %}
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+
 
 ## Works Completed
 
-In `https://www.youtube.com/user/swanbryan` You can view my other work
+`https://www.youtube.com/user/swanbryan` You can view my other work
     
     
     
@@ -19,7 +19,6 @@ In `https://www.youtube.com/user/swanbryan` You can view my other work
       github : username
       twitter : username
 
-The theme should reference these variables whenever needed.
     
 ## Sample Posts
 
@@ -38,6 +37,5 @@ Here's a sample "posts list".
 
 ## To-Do
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
 
